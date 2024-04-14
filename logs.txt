@@ -1,0 +1,50 @@
+commit 260df60e5d48ca0373e1538e18724aca3ad31c3a (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:45:23 2024 +0200
+
+    Resolve conflicts
+
+commit ea5b0e07cd868bec0d81975bb58470a01ba731dd
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:21:49 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+:...skipping...
+commit 260df60e5d48ca0373e1538e18724aca3ad31c3a (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:45:23 2024 +0200
+
+    Resolve conflicts
+
+commit ea5b0e07cd868bec0d81975bb58470a01ba731dd
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:21:49 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit c1a209a8bbf461717af965398765a90c3ec789e2 (origin/bug1, bug1)
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:25:21 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 5a3fd14788dd2aa34fd1ff383ab469612f2e5e64
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:19:21 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit c59587ca82092dc4b92793e66071d851c4b77df5
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:02:28 2024 +0200
+
+    Add starter code
+
+commit 54c5189ae1f29349b7450e60a14a5f3bd53bde91
+Author: gzile <gocezile@gmail.com>
+
+commit 54c5189ae1f29349b7450e60a14a5f3bd53bde91
+Author: gzile <gocezile@gmail.com>
+Date:   Sun Apr 14 23:01:52 2024 +0200
+
+    Initial commit
